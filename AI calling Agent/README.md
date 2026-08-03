@@ -1,4 +1,3 @@
-# emi-calling-agent
 # Backend
 redis-server
 ngrok http 8000  
