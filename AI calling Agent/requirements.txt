@@ -205,3 +205,4 @@ python-dotenv==1.2.2
 pydantic==2.11.7
 requests==2.34.2
 pandas==3.0.3
+gunicorn
